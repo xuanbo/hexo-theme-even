@@ -3,7 +3,7 @@
 # ===========================================
 
 # Site creation time
-since: 2015
+since: 2017
 
 # Custom your favicon.ico in `site/source`
 favicon: /favicon.ico
@@ -18,10 +18,10 @@ rss: default
 # ===========================================
 menu:
   Home: /
-  Archives: /archives/
-  # Tags: /tags
-  # Categories: /categories
-  # About: /about
+  Archives: /archives
+  Tags: /tags
+  Categories: /categories
+  About: /about
 
 # ===========================================
 # Theme Settings
@@ -29,9 +29,9 @@ menu:
 # theme styling
 # color: Default | Mint Green | Cobalt Blue | Hot Pink | Dark Violet
 theme:
-  color: Default
-  toc: false
-  fancybox: false
+  color: Dark Violet
+  toc: true
+  fancybox: true
 
 copyright:
   enable: true
@@ -48,13 +48,13 @@ reward:
 # Social links Settings
 # ===========================================
 social:
-  email: your@email.com
+  email: 1345545983@qq.com
   stack-overflow:
   twitter:
   facebook:
   linkedin:
   google:
-  github:
+  github: https://www.github.com/xuanbo
   weibo:
   zhihu:
   douban:
